@@ -3,7 +3,7 @@ title: "About"
 layout: default
 ---
 
-![](/assets/me.png)
+![](/assets/me.jpeg)
 
 # Miguel Branco
 
